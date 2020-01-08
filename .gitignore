@@ -17,3 +17,5 @@ build/
 *.ui
 
 Pipfile.lock
+
+.vscode
