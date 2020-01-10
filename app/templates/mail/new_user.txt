@@ -1,2 +1,0 @@
-Se creo una cuenta nueva.
-Usuario: {{ user }}
